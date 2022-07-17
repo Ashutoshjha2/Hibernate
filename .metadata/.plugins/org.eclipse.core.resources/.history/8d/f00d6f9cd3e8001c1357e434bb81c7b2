@@ -1,0 +1,27 @@
+package com.trainreservation;
+public class Train 
+{
+private	String source;
+private String Destination;
+public String getSource() {
+	return source;
+}
+public void setSource(String source) {
+	this.source = source;
+}
+public String getDestination() {
+	return Destination;
+}
+public void setDestination(String destination) {
+	Destination = destination;
+}
+public App() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+@Override
+public String toString() {
+	return "App [source=" + source + ", Destination=" + Destination + "]";
+}
+
+   }

@@ -1,0 +1,33 @@
+package com.trainReservationSystem;
+import java.util.*;
+public class Tmain {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);	
+		Random r  = new Random();
+		int pnr = r.nextInt(10000000);
+		Boolean  option = true;
+		while (option) {
+			System.err.println("************ Chose Your Option ************\n");
+			System.out.println("Press 1:**** Train Details Views ****\n");
+			System.out.println("Press 2:**** Booking Train Ticket ****\n");
+			System.out.println("Press 3:**** Enter Examination Hall ****\n");
+			System.out.println("Press 4:**** Exit ****\n");
+			
+			int option1 =  Integer.parseInt(s.nextLine());
+			switch (option1) {
+			case 1:
+				System.out.println("Press 1:**** All Train Details View ****\n");              
+				List<Train> t = new ArrayList<Train>();
+				t.add(new Train(100, "Rajdhani", "AC", 5000, "Patna", "Delhi"));
+				break;
+
+			default:
+				break;
+			}
+
+		}
+
+	}
+
+}

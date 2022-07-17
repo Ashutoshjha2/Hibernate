@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="internal" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithoutMaven"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\HqlHibernate\src\main\java\com\hql\HQLExample.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\XMLHibernate\src\main\java\com\mapping\xml\Test.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\NativeeHibernate\src\main\java\com\nativee\SQLExample.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\NativeHibernate"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven\src\main\java\com\tut\EmDemo.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven\src\main\java\com\states\StateDemo.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven\src\main\java\com\map1\Project.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven\src\main\java\com\pegination"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven\src\main\java\com\map\Question.java"/>
+			<item value="C:\Users\Ashutosh\Documents\Hibernate\ProjectWithMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.bus.dao"/>
+		</list>
+		<list key="groupId">
+			<item value="com.bus.dao"/>
+		</list>
+		<list key="artifactId">
+			<item value="Bus_Reservation_System"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
